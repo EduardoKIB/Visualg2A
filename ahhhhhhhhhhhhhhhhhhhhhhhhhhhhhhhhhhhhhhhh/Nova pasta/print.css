@@ -1,8 +1,9 @@
 body{
     text-align: center;
-
-    
+    font-family: "Audiowide", sans-serif;
+    font-size: 30px;
     background-image: url("image.jpg") ;   
     background-size: auto;
-       
+    color: aliceblue;
+    
 }

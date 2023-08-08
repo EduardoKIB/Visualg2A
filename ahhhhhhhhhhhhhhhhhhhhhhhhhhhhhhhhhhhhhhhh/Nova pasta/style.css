@@ -1,5 +1,21 @@
 body{
  text-align: center;
  background-image: url("image.jpg") ;   
- background-size: cover;
+ background-size: auto;
+ text-align: center;
+    font-family: "Audiowide", sans-serif;
+ font-size: 30px;
+color: white;
+    background-image: url("image.jpg");
+    
+}
+button{
+    border-radius: 400px;
+    width: 300px;
+    padding: 12px 30px;
+    font-size: x-large;
+    font-family: "Audiowide", sans-serif; ;
+    color: aliceblue;
+    background-color: #e7e7e7; color: black;
+
 }
