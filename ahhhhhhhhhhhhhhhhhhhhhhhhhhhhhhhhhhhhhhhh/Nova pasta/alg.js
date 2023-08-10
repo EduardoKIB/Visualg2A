@@ -17,11 +17,11 @@ function Media(){
   let media =   parseFloat(nota1) + parseFloat(nota2) + parseFloat(nota3);
   let total = (media / 3);
   if(total < 7) {
-     alert("Reprovado")
+     alert("Reprovado, sua media é " + total)
     
     }
   if(total >= 7){
-    alert("Aprovado")
+    alert("Aprovado, sua media é " + total )
 
   }
   
