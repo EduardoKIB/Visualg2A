@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    font-size: 30px;
+    background-image: url("132024.jpg") ;   
+    background-size: cover;
+    
+    color: white;
+    
+}
+h2{
+    font-size: 30px;
+    color: black;
+}
+h3{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: "Audiowide", sans-serif;
+}
+    button{
+        text-align: center;
+        border-radius: 15px;
+        width: 200px;
+        font-size: x-large;
+        font-family: "Audiowide", sans-serif; ;
+    
+    }   
