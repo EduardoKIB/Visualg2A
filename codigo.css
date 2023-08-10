@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    
+     font-family: "Audiowide", sans-serif;
+     font-size: large;
+     color:black;
+     background-image: url("mono6.jpg");
+     background-size: cover;
+
+     
+     
+
+        
+   
+}
+button{
+    
+    border-radius: 15px;
+    width: 180px;
+    font-size: 30px;
+    font-family: "Audiowide", sans-serif; ;
+
+}
+h7{
+    font-size: 80px;
+}

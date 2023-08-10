@@ -2,10 +2,6 @@ function definecampos(){
   let entrada1 = Number(document.getElementById("entrada1"))
   let entrada2 = Number(document.getElementById("entrada2"))
   let entrada3 = Number(document.getElementById("entrada3"))
-
-
-
-
 }
  
 
